@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645126577121",
+    "project_id": "crud-9b277",
+    "storage_bucket": "crud-9b277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645126577121:android:321db676be7e5cb586d0a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_belajar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5Eb5tPewbzv67d2tdMZjr4SkxfMTEJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645126577121:android:e1a392000e3eadd886d0a0",
+        "android_client_info": {
+          "package_name": "com.example.solving"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5Eb5tPewbzv67d2tdMZjr4SkxfMTEJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
